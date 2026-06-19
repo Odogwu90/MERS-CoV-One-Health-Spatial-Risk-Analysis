@@ -1,9 +1,17 @@
-
 .ipynb_checkpoints/
 Raw_Data/
 Untitled.ipynb
+Untitled1.ipynb
+Untitled2.ipynb
+Untitled3.ipynb
+Untitled4.ipynb
+
 Python/*(1).ipynb
 Python/*(2).ipynb
 
 ~$*.docx
 QGIS/Health_GIS_09.qgz
+__pycache__/
+*.py[cod]
+.env
+.venv
