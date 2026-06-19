@@ -85,3 +85,34 @@ Martins Onyedikachi
 Medical Doctor  
 MSc Global Health Candidate  
 University of Bonn  
+
+
+---
+
+## Key Visual Outputs
+
+### Global MERS Distribution Map
+Shows the spatial distribution of confirmed MERS cases worldwide, highlighting Saudi Arabia as the dominant hotspot.
+
+![MERS Map](Outputs/MERS_Map_FINAL.png)
+
+---
+
+### Camel Trade Risk Map
+Illustrates major camel trade pathways linking the Horn of Africa to the Arabian Peninsula.
+
+![Camel Trade Map](Outputs/Camel_Trade_Map_FINAL.png)
+
+---
+
+### Aviation Connectivity Map
+Shows international passenger mobility routes that facilitate potential global dissemination.
+
+![Aviation Map](Outputs/Figure_3_Aviation_Connectivity.png)
+
+---
+
+### One Health Transmission Pathway
+Integrated conceptual model showing the progression from animal reservoirs to global dissemination.
+
+![One Health Pathway](Outputs/Figure_4_OneHealth_Pathway_FINAL.png)
