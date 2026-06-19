@@ -1,0 +1,131 @@
+
+# HOW A CAMEL VIRUS BECAME A GLOBAL ONE HEALTH THREAT
+## A One Health GIS Analysis of MERS-CoV Risk Pathways
+
+Good day everyone.
+
+Today, I want to take you on a journey across continents through animal reservoirs, livestock trade routes, mass gatherings, and global aviation networks to answer one important question:
+
+How did a virus associated with camels become a global public health threat?
+
+This is the story of Middle East Respiratory Syndrome Coronavirus, also known as MERS-CoV.
+
+MERS is a zoonotic disease, meaning it spreads from animals to humans.
+It was first identified in Saudi Arabia in 2012 and is associated with severe respiratory illness and significant mortality.
+
+What makes MERS especially important is not only how dangerous it can be, but how it sits at the intersection of animal health, human behaviour, global mobility, and environmental systems.
+
+This makes MERS a classic One Health challenge.
+
+For this project, we applied Geographic Information Systems and Python-based spatial analysis to investigate how camel reservoirs, livestock trade networks, human mobility, and air travel interact to shape MERS transmission pathways.
+
+We used three major datasets:
+
+1. WHO global MERS case data
+2. FAOSTAT camel trade data
+3. ICAO international aviation data
+
+Let us now follow the transmission pathway.
+
+First, we begin with the animal reservoir.
+
+Dromedary camels are the primary reservoir of MERS-CoV.
+
+Our analysis identified major camel reservoir hotspots in the Horn of Africa and the Arabian Peninsula.
+
+This means the virus existed in animal populations long before widespread human recognition.
+
+The next question becomes:
+How does risk move geographically?
+
+This brings us to camel trade.
+
+Our camel trade analysis revealed that the major exporters were:
+
+Somalia, Sudan, Djibouti
+
+Most notably, Somalia emerged as the largest camel exporter.
+
+This suggests that camel trade networks may play a critical role in moving infected animal populations across borders.
+
+In simple terms, risk moves with trade.
+
+Next, we arrive at the most important human transmission hotspot.
+
+Our human MERS case analysis identified Saudi Arabia as the principal hotspot of reported human infections.
+
+This was one of the strongest findings in the project.
+
+Why is this important?
+
+Because this region represents a major convergence point of:
+
+- Camel exposure
+- Active trade
+- Human-animal interaction
+- Mass gathering events
+
+This creates ideal conditions for spillover and transmission.
+
+Now let us consider mass gatherings.
+
+Each year, millions of people travel to Saudi Arabia for Hajj and Umrah.
+
+These represent some of the largest recurring mass gatherings in the world.
+
+From a public health perspective, this creates an important question:
+
+What happens when potentially exposed individuals return home?
+
+This brings us to international air mobility.
+
+Our aviation network analysis identified the strongest mobility corridor as:
+
+India → United Arab Emirates
+
+with approximately 8,719,069 passengers.
+
+This was one of the most striking discoveries in the project.
+
+We also found strong aviation connectivity with:
+
+United Arab Emirates, Saudi Arabia, Qatar, Kuwait
+
+This means millions of passengers move annually through routes connected to the Arabian Peninsula.
+
+And this is where local outbreaks can become global threats.
+
+A virus originating in camels can move through trade systems, amplify in human populations, and spread internationally through aviation networks.
+
+This is the core message of our One Health framework.
+
+Camel reservoirs.
+Livestock trade.
+Human transmission hotspots.
+Mass gatherings.
+Global air mobility.
+International dissemination.
+
+This pathway explains how a local zoonotic threat can become an international public health challenge.
+
+Our findings highlight several important lessons.
+
+First, MERS cannot be understood by looking at human infections alone.
+
+Second, animal reservoirs and livestock trade are critical components of disease spread.
+
+Third, international aviation creates opportunities for long-distance dissemination.
+
+Finally, MERS demonstrates why One Health surveillance is essential.
+
+Our main conclusion is simple:
+
+MERS spread is driven by interconnected animal, trade, and mobility systems.
+
+The broader lesson extends beyond MERS.
+
+In our increasingly connected world, the next outbreak may begin locally but spread globally.
+
+Understanding these transmission pathways before crises occur is one of the strongest tools we have in public health preparedness.
+
+Thank you.

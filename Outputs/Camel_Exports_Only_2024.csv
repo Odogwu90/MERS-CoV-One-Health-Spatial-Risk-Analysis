@@ -1,0 +1,99 @@
+Domain Code,Domain,Area Code (ISO3),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+TCL,Crops and livestock products,DZA,Algeria,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"67",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,AUS,Australia,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"914",A,Official figure,
+TCL,Crops and livestock products,AUT,Austria,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"6",A,Official figure,
+TCL,Crops and livestock products,AUT,Austria,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"3",A,Official figure,
+TCL,Crops and livestock products,AZE,Azerbaijan,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"41",A,Official figure,
+TCL,Crops and livestock products,BHR,Bahrain,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"52",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,BGD,Bangladesh,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"20",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,BLR,Belarus,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"20",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,BLR,Belarus,"5608",Import quantity,"2121.02",Other camelids,"2024","2024",An,"2",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,BEL,Belgium,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"12",A,Official figure,
+TCL,Crops and livestock products,BEL,Belgium,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"94",A,Official figure,
+TCL,Crops and livestock products,BOL,Bolivia (Plurinational State of),"5908",Export quantity,"2121.02",Other camelids,"2024","2024",An,"1",A,Official figure,
+TCL,Crops and livestock products,BRA,Brazil,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"46",A,Official figure,
+TCL,Crops and livestock products,BRA,Brazil,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"0",A,Official figure,
+TCL,Crops and livestock products,BFA,Burkina Faso,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"1",A,Official figure,
+TCL,Crops and livestock products,KHM,Cambodia,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"1",A,Official figure,
+TCL,Crops and livestock products,CAN,Canada,"5608",Import quantity,"2121.02",Other camelids,"2024","2024",An,"97",A,Official figure,
+TCL,Crops and livestock products,CAN,Canada,"5908",Export quantity,"2121.02",Other camelids,"2024","2024",An,"9",A,Official figure,
+TCL,Crops and livestock products,CHL,Chile,"5908",Export quantity,"2121.02",Other camelids,"2024","2024",An,"4661",A,Official figure,
+TCL,Crops and livestock products,F351,China,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"238",A,Official figure,
+TCL,Crops and livestock products,CHN,"China, mainland","5608",Import quantity,"2121.01",Camels,"2024","2024",An,"238",A,Official figure,
+TCL,Crops and livestock products,TWN,"China, Taiwan Province of","5608",Import quantity,"2121.01",Camels,"2024","2024",An,"0",A,Official figure,
+TCL,Crops and livestock products,COL,Colombia,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"11",I,Value imputed by a receiving agency,
+TCL,Crops and livestock products,COL,Colombia,"5608",Import quantity,"2121.02",Other camelids,"2024","2024",An,"1",A,Official figure,
+TCL,Crops and livestock products,COL,Colombia,"5908",Export quantity,"2121.02",Other camelids,"2024","2024",An,"56",I,Value imputed by a receiving agency,
+TCL,Crops and livestock products,CIV,Côte d'Ivoire,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"236",A,Official figure,
+TCL,Crops and livestock products,CZE,Czechia,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"78",A,Official figure,
+TCL,Crops and livestock products,DJI,Djibouti,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"26993",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,EGY,Egypt,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"87458",I,Value imputed by a receiving agency,
+TCL,Crops and livestock products,ERI,Eritrea,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"474",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,FRA,France,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"24",A,Official figure,
+TCL,Crops and livestock products,FRA,France,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"3",A,Official figure,
+TCL,Crops and livestock products,GEO,Georgia,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"2",A,Official figure,
+TCL,Crops and livestock products,DEU,Germany,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"11",A,Official figure,
+TCL,Crops and livestock products,DEU,Germany,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"6",A,Official figure,
+TCL,Crops and livestock products,GHA,Ghana,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"1",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,HUN,Hungary,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"217",A,Official figure,
+TCL,Crops and livestock products,IND,India,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"20",A,Official figure,
+TCL,Crops and livestock products,IDN,Indonesia,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"34",A,Official figure,
+TCL,Crops and livestock products,IRQ,Iraq,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"713",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,ITA,Italy,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"4",A,Official figure,
+TCL,Crops and livestock products,JOR,Jordan,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"169",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,KAZ,Kazakhstan,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"2",A,Official figure,
+TCL,Crops and livestock products,KAZ,Kazakhstan,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"77",A,Official figure,
+TCL,Crops and livestock products,KEN,Kenya,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"292",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,KWT,Kuwait,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"4930",A,Official figure,
+TCL,Crops and livestock products,KWT,Kuwait,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"3235",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,LBR,Liberia,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"0",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,LBY,Libya,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"24",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,LTU,Lithuania,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"10",A,Official figure,
+TCL,Crops and livestock products,LTU,Lithuania,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"108",A,Official figure,
+TCL,Crops and livestock products,MWI,Malawi,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"520",I,Value imputed by a receiving agency,
+TCL,Crops and livestock products,MYS,Malaysia,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"44",A,Official figure,
+TCL,Crops and livestock products,MHL,Marshall Islands,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"0",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,MOZ,Mozambique,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"2",A,Official figure,
+TCL,Crops and livestock products,NLD,Netherlands (Kingdom of the),"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"49",A,Official figure,
+TCL,Crops and livestock products,NLD,Netherlands (Kingdom of the),"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"2",A,Official figure,
+TCL,Crops and livestock products,NER,Niger,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"809",A,Official figure,
+TCL,Crops and livestock products,NGA,Nigeria,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"742",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,NOR,Norway,"5608",Import quantity,"2121.02",Other camelids,"2024","2024",An,"1",A,Official figure,
+TCL,Crops and livestock products,OMN,Oman,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"2000",E,Estimated value,
+TCL,Crops and livestock products,OMN,Oman,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"100",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,PAK,Pakistan,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"28",A,Official figure,
+TCL,Crops and livestock products,PRY,Paraguay,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"0",A,Official figure,
+TCL,Crops and livestock products,POL,Poland,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"7",A,Official figure,
+TCL,Crops and livestock products,POL,Poland,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"230",A,Official figure,
+TCL,Crops and livestock products,QAT,Qatar,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"25700",E,Estimated value,
+TCL,Crops and livestock products,QAT,Qatar,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"4061",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,RUS,Russian Federation,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"551",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,RUS,Russian Federation,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"2",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,SAU,Saudi Arabia,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"234480",A,Official figure,
+TCL,Crops and livestock products,SAU,Saudi Arabia,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"25388",A,Official figure,
+TCL,Crops and livestock products,SEN,Senegal,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"1",A,Official figure,
+TCL,Crops and livestock products,SVK,Slovakia,"5908",Export quantity,"2121.02",Other camelids,"2024","2024",An,"2",A,Official figure,
+TCL,Crops and livestock products,SOM,Somalia,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"400",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,SOM,Somalia,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"185678",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,ZAF,South Africa,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"146",I,Value imputed by a receiving agency,
+TCL,Crops and livestock products,SSD,South Sudan,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"145",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,SDN,Sudan,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"92547",I,Value imputed by a receiving agency,
+TCL,Crops and livestock products,SWE,Sweden,"5608",Import quantity,"2121.02",Other camelids,"2024","2024",An,"5",A,Official figure,
+TCL,Crops and livestock products,CHE,Switzerland,"5608",Import quantity,"2121.02",Other camelids,"2024","2024",An,"23",A,Official figure,
+TCL,Crops and livestock products,CHE,Switzerland,"5908",Export quantity,"2121.02",Other camelids,"2024","2024",An,"45",A,Official figure,
+TCL,Crops and livestock products,TJK,Tajikistan,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"139",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,TJK,Tajikistan,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"1",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,THA,Thailand,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"6",A,Official figure,
+TCL,Crops and livestock products,TGO,Togo,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"23",A,Official figure,
+TCL,Crops and livestock products,UGA,Uganda,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"145",A,Official figure,
+TCL,Crops and livestock products,UKR,Ukraine,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"14",I,Value imputed by a receiving agency,
+TCL,Crops and livestock products,ARE,United Arab Emirates,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"10108",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,ARE,United Arab Emirates,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"8851",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,ARE,United Arab Emirates,"5608",Import quantity,"2121.02",Other camelids,"2024","2024",An,"1",X,Figure from external organization,Estimated data using trading partners database
+TCL,Crops and livestock products,TZA,United Republic of Tanzania,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"292",A,Official figure,
+TCL,Crops and livestock products,USA,United States of America,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"9",A,Official figure,
+TCL,Crops and livestock products,USA,United States of America,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"1522",A,Official figure,
+TCL,Crops and livestock products,UZB,Uzbekistan,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"37",A,Official figure,
+TCL,Crops and livestock products,UZB,Uzbekistan,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"139",A,Official figure,
+TCL,Crops and livestock products,ZMB,Zambia,"5608",Import quantity,"2121.01",Camels,"2024","2024",An,"624",I,Value imputed by a receiving agency,
+TCL,Crops and livestock products,ZMB,Zambia,"5908",Export quantity,"2121.01",Camels,"2024","2024",An,"0",A,Official figure,

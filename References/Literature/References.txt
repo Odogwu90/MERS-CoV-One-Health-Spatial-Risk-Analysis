@@ -1,0 +1,12 @@
+
+REFERENCES
+
+World Health Organization. (2025). WHO global MERS dataset.
+
+Food and Agriculture Organization. (2024). FAOSTAT livestock trade database.
+
+International Civil Aviation Organization. (2016). Global air passenger traffic database.
+
+Zumla, A., Hui, D. S., & Perlman, S. (2015). Middle East respiratory syndrome. The Lancet, 386(9997), 995–1007.
+
+A systematic review of MERS-CoV in dromedary camels.
