@@ -1,0 +1,19 @@
+
+MERS-CoV One Health Spatial Risk Analysis Repository
+
+GitHub Repository:
+https://github.com/Odogwu90/MERS-CoV-One-Health-Spatial-Risk-Analysis
+
+Description:
+This repository contains the full project workflow including:
+- Python analysis
+- QGIS mapping
+- Outputs
+- Presentation materials
+- References
+- Documentation
+
+Author:
+Martins Onyedikachi
+MSc Global Health Candidate
+University of Bonn
